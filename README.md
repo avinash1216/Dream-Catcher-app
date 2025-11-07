@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="DreamCatcherBanner" src="[https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6](https://timesofindia.indiatimes.com/life-style/home-garden/dream-catchers-do-they-really-catch-dreams/articleshow/53005471.cms)" />
+  <img width="1200" height="475" alt="DreamCatcherBanner" src="https://images.unsplash.com/photo-1446813768824-b3730a9d5840?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHJlYW1jYXRjaGVyfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000" />
 </div>
 
 # 🌙 Dream Catcher — Let AI Decode Your Dreams
