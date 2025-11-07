@@ -1,0 +1,8 @@
+
+{
+  "name": "Morpheus: AI Dream Journal",
+  "description": "Record your dreams with your voice. The AI will transcribe your dream, generate a surrealist image, provide a psychological interpretation, and let you chat about the symbols within your dream.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
